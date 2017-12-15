@@ -2,5 +2,5 @@ projectKey=my:demoUNS
 serverUrl=http://localhost:9000
 serverVersion=6.7.0.33306
 dashboardUrl=http://localhost:9000/dashboard/index/my:demoUNS
-ceTaskId=AWBYhmMFd_7ShvW9COWJ
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWBYhmMFd_7ShvW9COWJ
+ceTaskId=AWBYngCSd_7ShvW9COWK
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWBYngCSd_7ShvW9COWK

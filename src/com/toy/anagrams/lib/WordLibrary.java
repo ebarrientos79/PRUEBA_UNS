@@ -43,7 +43,7 @@ public abstract class WordLibrary {
     
     @Deprecated
     public void prueba(){
-        System.out.println();
+        System.out.println("Mensaje Prueba");
         return;
     }
     /** Getter for the default implementation of the WordLibrary.
