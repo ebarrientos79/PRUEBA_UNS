@@ -41,6 +41,10 @@ public abstract class WordLibrary {
     protected WordLibrary() {
     }
     
+    @Deprecated
+    public void prueba(){
+        
+    }
     /** Getter for the default implementation of the WordLibrary.
      * @return some default implementation of WordLibrary
      */
